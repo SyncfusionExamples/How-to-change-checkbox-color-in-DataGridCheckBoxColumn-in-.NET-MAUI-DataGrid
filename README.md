@@ -1,4 +1,4 @@
-# How to change checkbox color in DataGridCheckBoxColumn in .NET MAUI DataGrid?
+# How to change checkbox color in DataGridCheckBoxColumn in .NET MAUI DataGrid?.
 
 This article demonstrates how to change checkbox color in DataGridCheckBoxColumn in [.NET MAUI DataGrid](https://www.syncfusion.com/maui-controls/maui-datagrid).
 
